@@ -1,16 +1,16 @@
 IF Statement
-📌 Definition
+ Definition
 
 The if statement checks a single condition.
 If the condition is true, the code executes.
 If it is false, the code is skipped.
-
-🧠 Syntax
+    
+ Syntax
 if (condition) {
     // code runs when condition is true
 }
 
-📝 Example
+ Example
 #include <stdio.h>
 
 int main() {
