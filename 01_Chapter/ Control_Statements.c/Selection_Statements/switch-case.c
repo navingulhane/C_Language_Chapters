@@ -1,11 +1,11 @@
 Switch-Case
   
-📌 Definition
+ Definition
 
 The switch-case statement is used when you want to check one variable against many fixed values.
 It makes code cleaner than using many else-if statements.
 
-🧠 Syntax
+ Syntax
 switch (variable) {
     case value1:
         // code
@@ -19,7 +19,7 @@ switch (variable) {
         // code for no match
 }
 
-📝 Example
+ Example
 #include <stdio.h>
 
 int main() {
