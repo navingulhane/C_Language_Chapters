@@ -1,10 +1,10 @@
 Nested IF-ELSE
-📌 Definition
+ Definition
 
 A nested if-else means placing one if/else block inside another.
 Useful when your decision depends on two or more related checks.
 
-🧠 Syntax
+Syntax
 if (condition1) {
     if (condition2) {
         // inner if
@@ -15,7 +15,7 @@ if (condition1) {
     // outer else
 }
 
-📝 Example
+ Example
 #include <stdio.h>
 
 int main() {
