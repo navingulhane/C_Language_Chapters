@@ -1,18 +1,18 @@
 IF-ELSE Statement
-📌 Definition
+ Definition
 
 The if-else statement lets your program choose between two options:
 ✔ one block when the condition is true
 ✔ another block when it is false
 
-🧠 Syntax
+ Syntax
 if (condition) {
     // true block
 } else {
     // false block
 }
 
-📝 Example
+ Example
 #include <stdio.h>
 
 int main() {
