@@ -1,4 +1,4 @@
-# **C Language Chapters — Learning Repository**
+.# **C Language Chapters — Learning Repository**
 
 This repository contains my chapter-wise C programming practice.  
 I am uploading each chapter as I complete it and will continue updating regularly.
