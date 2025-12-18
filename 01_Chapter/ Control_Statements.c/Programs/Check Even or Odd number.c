@@ -1,4 +1,4 @@
-// Check Even or Odd number with logic shown
+// Check Even or Odd number with logic shown...
 #include<stdio.h>
 int main() {
     int num;
