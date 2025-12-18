@@ -1,4 +1,4 @@
-// biggest no among 3 no.
+.// biggest no among 3 no.
 #include <stdio.h>
 
 int main() {
